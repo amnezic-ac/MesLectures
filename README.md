@@ -1,4 +1,5 @@
-<p><center>Prendre des notes, c'est prendre du temps, ne pas en prendre c'est perdre son temps</center></p>
+# <p align="center"><b>Prendre des notes, c'est prendre du temps, ne pas en prendre c'est perdre son temps</b><p>
+
 Mes Lectures
 * 2024 :
-    + _Don Quichotte_ de Cervantès (avril)
+    + *Don Quichotte* de Cervantès (avril)
